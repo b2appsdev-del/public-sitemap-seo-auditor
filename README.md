@@ -14,6 +14,7 @@ Runs as a cloud actor on **[Apify](https://apify.com/b2apps/public-sitemap-seo-a
   - [EU VAT & B2B SaaS Invoicing Kit](https://devbloom12.gumroad.com/l/umkclc?utm_source=github&utm_medium=readme)
   - [UCITS ETF & EU Fund Analytics Kit](https://devbloom12.gumroad.com/l/fynlyw?utm_source=github&utm_medium=readme)
 - 🌐 **All B2 Apps Tools & Directory**: Discover our complete portfolio of MCP servers, Apify actors, and web tools at [https://b2appsdev-del.github.io/](https://b2appsdev-del.github.io/).
+- 🧭 **All free samples and step-by-step guides (mobile-friendly):** https://b2appsdev-del.github.io/start/
 
 ---
 
